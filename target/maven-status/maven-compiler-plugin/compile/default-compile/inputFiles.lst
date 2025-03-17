@@ -1,0 +1,11 @@
+C:\ecommerce\src\main\java\com\novastore\controller\AuthController.java
+C:\ecommerce\src\main\java\com\novastore\controller\CartController.java
+C:\ecommerce\src\main\java\com\novastore\controller\HomeController.java
+C:\ecommerce\src\main\java\com\novastore\controller\ProductController.java
+C:\ecommerce\src\main\java\com\novastore\dao\ProductDAO.java
+C:\ecommerce\src\main\java\com\novastore\dao\UserDAO.java
+C:\ecommerce\src\main\java\com\novastore\model\CartItem.java
+C:\ecommerce\src\main\java\com\novastore\model\Product.java
+C:\ecommerce\src\main\java\com\novastore\model\ShoppingCart.java
+C:\ecommerce\src\main\java\com\novastore\model\User.java
+C:\ecommerce\src\main\java\com\novastore\util\DatabaseConfig.java
