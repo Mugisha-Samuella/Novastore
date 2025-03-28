@@ -1,4 +1,4 @@
-# NovaStore eCommerce Platform
+# NovaStore eCommerce Platform (Work In Progress)
 
 A Java-based eCommerce platform built using Servlets, JSP, and PostgreSQL, following the MVC architecture. This project is designed as a classroom assignment demonstrating core Java web development concepts without using frameworks.
 
@@ -7,11 +7,7 @@ A Java-based eCommerce platform built using Servlets, JSP, and PostgreSQL, follo
 - 🔐 User Authentication (Login/Register)
 - 🌐 Multi-language Support (English, Spanish, French)
 - 🛍️ Product Catalog with Categories
-- 🛒 Shopping Cart Functionality
-- 💳 Checkout Process
 - 📱 Responsive Design
-- 🔍 Product Search and Filtering
-- 👤 User Profile Management
 
 ## Technologies Used
 
