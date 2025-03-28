@@ -152,14 +152,3 @@ For testing purposes, you can use:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Acknowledgments
-
-- Bootstrap for the responsive UI components
-- PostgreSQL for the robust database system
-- Apache Tomcat for the servlet container
-- The Java community for excellent documentation
-
-## Contact
-
-Your Name - your.email@example.com
-Project Link: https://github.com/yourusername/novastore
